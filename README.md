@@ -1,4 +1,4 @@
-# ✈️ US Flight Delay Analysis with PySpark
+# US Flight Delay Analysis with PySpark
 
 ## Overview
 Large-scale analysis of **5.8 million US domestic flight records** using Apache PySpark on Databricks. This project explores delay patterns, identifies the worst-performing airlines and routes, and breaks down cancellation causes across the entire 2015 US flight dataset.
